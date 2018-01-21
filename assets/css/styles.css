@@ -1,0 +1,77 @@
+
+.hidden {
+
+	display: none;  /* this will hide the div and act like it isn't on the DOM */
+	/*visibility: hidden;*/  /* this will hide the div but keep the space for the element still showing on the page */
+}
+
+.center-img-element {
+
+	display: block;
+    margin: 0 auto;
+}
+
+.bold-text {
+
+	font-weight: bold;
+}
+
+select {
+    text-transform: capitalize;
+}
+
+select {
+    text-transform: capitalize;
+}
+
+body {
+	background: url("https://webdesignerdepot.s3.amazonaws.com/default-images/5.jpg");
+}
+
+#container {
+	border-style: inset;
+	border-color: gray;
+}
+
+.block {
+	margin: 20px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+}
+
+.card {
+	background-color: #F5F5F5;
+}
+
+.card-content {
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+}
+
+#submit {
+	background-color: #0066cc !important;
+}
+
+.final-movie-details {
+	background-color: #0066cc !important
+}
+
+.table tr.is-selected {
+    background-color: #0066cc;
+    color: #fff;
+}
+
+#final-dinner-choice, #final-movie-choice {
+	display:none;
+}
+
+
+
+
+
